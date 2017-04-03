@@ -82,3 +82,6 @@ Even or Odd number
 teenager
 Convert Celsius temperature to Fahrenheit Program
 Convert Fahrenheit to Celsius temperature using one variable Program
+number of miles traveled
+sum of Grades file
+lottery numbers
