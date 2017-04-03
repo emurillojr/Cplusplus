@@ -57,15 +57,15 @@ Registered is either an N or a Y
 Votes is either an N or a Y
 
 Lab 9
-You have been out hunting Zombies for over three weeks.  You haven’t eaten for five days and are low on water.  On your way home you come across a diner that offers only 2 meals.
+You have been out hunting Zombies for over three weeks.  You havenâ€™t eaten for five days and are low on water.  On your way home you come across a diner that offers only 2 meals.
 First meal is peanut butter and jelly sandwich and glass of water.  The cost is $35.35.
 Second meal is a rib-eye steak, fries, vegetable and your choice of coffee or soda.  The cost is $45.00.
 The tax is 1
 0% of the meal coast and the tip is based on the following:
-•	If the service was excellent the tip should be 20%
-•	If the service was good then the tip should be 15%
-•	If the service was fair then the tip should be 10%
-•	If the service as poor then the tip should be 5%
+â€¢	If the service was excellent the tip should be 20%
+â€¢	If the service was good then the tip should be 15%
+â€¢	If the service was fair then the tip should be 10%
+â€¢	If the service as poor then the tip should be 5%
 You have $52.00 on you.  Also the proprietor of the diner will take ammunition instead of money.  Ten rounds for a dollar.  You have only 20 rounds left. Which meal can you afford?  How much ammunition will you need to use, if any? You must use a function to determine the tip.
 
 Lab 10
@@ -74,8 +74,11 @@ Write a program that will determine the sum of numbers.  The starting value shou
 Other
 Program that will calculate total cost per trip.
 Program that calculates salary raise rate.
-
-
-
-
-
+Between 0 to 100
+Divide by 7 yes or no
+Loop example using while, number count between two numbers
+Number squared cubed program
+Even or Odd number
+teenager
+Convert Celsius temperature to Fahrenheit Program
+Convert Fahrenheit to Celsius temperature using one variable Program
